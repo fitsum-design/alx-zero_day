@@ -10,3 +10,6 @@ Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
 To https://github.com/{YOUR_USERNAME}/alx-zero_day.git                                                                                       
  * [new branch]      master -> master              
+root@896cf839cf9a:/# cd alx-zero_day/
+root@896cf839cf9a:/alx-zero_day# mkdir 0x03-git
+root@896cf839cf9a:/alx-zero_day# echo 'My second readme' > README.md 
